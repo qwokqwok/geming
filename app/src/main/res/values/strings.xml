@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">geming</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play">play</string>
+    <string name="attack">attack</string>
+    <string name="text_menyerang">kamu menyerang</string>
+    <string name="text_diserang">lawan menyerang</string>
+    <string name="lanjut">continue</string>
+    <string name="buat">Buat</string>
+    <string name="mm">mm</string>
+    <string name="fighter">fighter</string>
+    <string name="selamat_anda_menang">selamat anda menang</string>
+    <string name="yah_kalah">yah kalah</string>
+    <string name="_0">0</string>
+    <string name="you">you</string>
+</resources>
